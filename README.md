@@ -17,4 +17,9 @@ I'm passionate about **AI, NLP, and deep learning**! Always exploring new techno
 - 📧 [Email](mailto:your-email@example.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-raza-khan-309441312)  
 
-💡 _“Code, Learn, Repeat!”_ 💡  
+🌀 **while (alive) 
+{**  
+  - 🍕 **eat;**  
+  - 💻 **code;**  
+  - 😴 **sleep;**  
+🌀 **}** 
